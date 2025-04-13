@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mathematics, UCLA, 2028 (expected)
 
-Work experience
+(Relevant) Classes
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025
+  * Math 245C (Real Analysis pt3)
+  * Math 210C (Algebra pt3)
+  * Math 225C (Algebraic Topology)
+  * CS 267A (Probabilistic Programming and Relational Learning)
+  * Phys 105A (Analytic Mechanics)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2025
+  * Math 254A (Analytic Number Theory)
+  * Math 245B (Real Analysis pt2)
+  * Math 210B (Algebra pt2)
+  * Math 135 (Ordinary Differential Equations)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2024
+  * Math 210A (Graduate Algebra pt1)
+  * Math 245A (Graduate Real Analysis pt1)
+  * Math 115AH (Honors Linear Algebra)
+  * Math 131A (Undergrad Analysis)
+  * Math 110AH (Honors Abstract Algebra)
   
-Skills
+Other
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Contributed chapter (with Bhargava Kanakapura) to [Analytic Number Theory Exponent Database](https://teorth.github.io/expdb/blueprint/waring-goldbach-schnirelman-chapter.html) as part of Tao's 254A
+* Directed Reading Program with Elias Manuelides in Harmonic Analysis
+* Competed in Mathematical Modeling Competition
