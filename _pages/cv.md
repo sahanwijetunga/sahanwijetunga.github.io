@@ -40,3 +40,4 @@ Other
 * Contributed chapter (with Bhargava Kanakapura) to [Analytic Number Theory Exponent Database](https://teorth.github.io/expdb/blueprint/waring-goldbach-schnirelman-chapter.html) as part of Tao's 254A, on Waring and Goldbach type problems, and Schnirelman’s constant. 
 * Directed Reading Program with Elias Manuelides in Harmonic Analysis
 * Competed in Mathematical Modeling Competition
+* [Small Bullet-Hell Game](https://soccerstar118.itch.io/particle-getaway)
