@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /website/
 ---
 
 Hello! I am a first year math undergrad at UCLA. 
