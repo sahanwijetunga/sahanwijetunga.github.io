@@ -13,27 +13,21 @@ Education
 ======
 * B.S. in Mathematics, UCLA, 2028 (expected)
 
-(Relevant) Classes
+Graduate Classes
 ======
 * Spring 2025
-  * Math 245C (Graduate Real Analysis pt3)
-  * Math 210C (Graduate Algebra pt3)
+  * Math 245C (Real Analysis pt3)
+  * Math 210C (Algebra pt3)
   * Math 225C (Algebraic Topology)
-  * CS 267A (Probabilistic Programming and Relational Learning)
-  * Phys 105A (Analytic Mechanics)
 
 * Winter 2025
   * Math 254A (Analytic Number Theory)
-  * Math 245B (Graduate Real Analysis pt2)
-  * Math 210B (Graduate Algebra pt2)
-  * Math 135 (Ordinary Differential Equations)
+  * Math 245B (Real Analysis pt2)
+  * Math 210B (Algebra pt2)
 
 * Fall 2024
-  * Math 210A (Graduate Algebra pt1)
-  * Math 245A (Graduate Real Analysis pt1)
-  * Math 115AH (Honors Linear Algebra)
-  * Math 131A (Undergrad Analysis)
-  * Math 110AH (Honors Abstract Algebra)
+  * Math 210A (Algebra pt1)
+  * Math 245A (Real Analysis pt1)
   
 Other
 ======
