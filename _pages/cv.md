@@ -35,3 +35,5 @@ Other
 * Directed Reading Program with Elias Manuelides in Harmonic Analysis
 * Competed in Mathematical Modeling Competition
 * [Small Bullet-Hell Game](https://soccerstar118.itch.io/particle-getaway)
+* Researcher for [bruinML](https://williamc.me/1969/12/31/mentorship/)
+* Tufts VERSEIM REU 2025, in [Formalization and ``Finite Algebra''](https://sites.tufts.edu/verseimreu/formalization-and-finite-algebra/) project under Dr. George J. McNinch 
