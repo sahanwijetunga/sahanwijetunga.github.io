@@ -54,6 +54,4 @@ Highschool
   * Built confidence in new members by enhancing new meetings to educate on unfamiliar computer science concepts 
   * Taught middle schoolers the fundamentals of coding in various languages
   * Expanded reach to prepare NPHS students for coding competitions using additional meetings and problemsets, resulting in increased participation and results in the American Computer Science League 
-* USACO Gold Qualifier, 4x AIME Qualifier, USAMTS Bronze, Hackathon By The Sea Best Implementation Award, California Math League 1st ([2023](https://mathleague.com/downloads/hs2223/ca-hs6-2223.pdf) + [2024](https://mathleague.com/downloads/hs2324/ca-hs6-2324.pdf)), 
-
-
+* USACO Gold Qualifier, 4x AIME Qualifier, USAMTS Bronze, Hackathon By The Sea Best Implementation Award, California Math League 1st ([2023](https://mathleague.com/downloads/hs2223/ca-hs6-2223.pdf) + [2024](https://mathleague.com/downloads/hs2324/ca-hs6-2324.pdf))
