@@ -27,7 +27,7 @@ Analysis
 Applied
 ======
 * Competed in Mathematical Modeling Competition 2025 with Aman Makhija and Bhargava Kanakapura. (Advisor: Mason A. Porter)
-  * Submitted Problem A. We developed predictive models to attain quantitative and qualitative information about weathered stair
+  * Submitted Problem A. We developed predictive models to attain quantitative and qualitative information about weathered stairs
 * Working with [William Chang](https://williamc.me/1969/12/31/mentorship/) on problems in Multiplayer Bandits, MDPs, and other areas. 
     
 Graduate Classes
