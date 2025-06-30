@@ -13,6 +13,23 @@ Education
 ======
 * B.S. in Mathematics, UCLA, 2028 (expected)
 
+Formalization
+======
+* Tufts VERSEIM REU 2025 Participant, in [Formalization and ``Finite Algebra''](https://sites.tufts.edu/verseimreu/formalization-and-finite-algebra/) project under Dr. George J. McNinch
+  * We are currently working on formalizing results for hyperbolic spaces and forms over finite fields
+ 
+Analysis
+======
+* Contributed chapter (with Bhargava Kanakapura) to [Analytic Number Theory Exponent Database](https://teorth.github.io/expdb/blueprint/waring-goldbach-schnirelman-chapter.html) as part of Tao's 254A, on Waring and Goldbach type problems, and Schnirelman’s constant
+* Directed Reading Program with Elias Manuelides in Harmonic Analysis (2025 Winter-Spring)
+  * Primary text: [Classical and Multilinear Harmonic Analysis](https://www.cambridge.org/core/books/classical-and-multilinear-harmonic-analysis/0F3A1DE477BFF6547CB8A93F6B3588E8)
+
+Applied
+======
+* Competed in Mathematical Modeling Competition 2025 with Aman Makhija and Bhargava Kanakapura. (Advisor: Mason A. Porter)
+  * Submitted Problem A. We developed predictive models to attain quantitative and qualitative information about weathered stair
+* Working with [William Chang](https://williamc.me/1969/12/31/mentorship/) on problems in Multiplayer Bandits, MDPs, and other areas. 
+    
 Graduate Classes
 ======
 * Spring 2025
@@ -29,11 +46,14 @@ Graduate Classes
   * Math 210A (Algebra pt1)
   * Math 245A (Real Analysis pt1)
   
-Other
+Highschool
 ======
-* Contributed chapter (with Bhargava Kanakapura) to [Analytic Number Theory Exponent Database](https://teorth.github.io/expdb/blueprint/waring-goldbach-schnirelman-chapter.html) as part of Tao's 254A, on Waring and Goldbach type problems, and Schnirelman’s constant. 
-* Directed Reading Program with Elias Manuelides in Harmonic Analysis
-* Competed in Mathematical Modeling Competition
 * [Small Bullet-Hell Game](https://soccerstar118.itch.io/particle-getaway)
-* Researcher for [bruinML](https://williamc.me/1969/12/31/mentorship/)
-* Tufts VERSEIM REU 2025, in [Formalization and ``Finite Algebra''](https://sites.tufts.edu/verseimreu/formalization-and-finite-algebra/) project under Dr. George J. McNinch 
+* Co-President CodeNation (Aug. 2021 - Jun. 2024)
+  * Increased total membership from 20 to 105
+  * Built confidence in new members by enhancing new meetings to educate on unfamiliar computer science concepts 
+  * Taught middle schoolers the fundamentals of coding in various languages
+  * Expanded reach to prepare NPHS students for coding competitions using additional meetings and problemsets, resulting in increased participation and results in the American Computer Science League 
+* USACO Gold Qualifier, 4x AIME Qualifier, USAMTS Bronze, Hackathon By The Sea Best Implementation Award, California Math League 1st ([2023](https://mathleague.com/downloads/hs2223/ca-hs6-2223.pdf) + [2024](https://mathleague.com/downloads/hs2324/ca-hs6-2324.pdf)), 
+
+
