@@ -7,28 +7,10 @@ author_profile: true
 
 {% if site.talkmap_link == true %}
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Image Click Through</title>
-  <style>
-    body { text-align: center; font-family: sans-serif; }
-    img { max-width: 90%; height: auto; cursor: pointer; }
-  </style>
-</head>
-<body>
-  <h1>Click the Image to Cycle</h1>
-  <img id="slideshow" src="img1.jpg" alt="Slideshow Image" onclick="nextImage()">
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-  <script>
-    const images = ["img1.jpg", "img2.jpg", "img3.jpg"];
-    let current = 0;
+{% endif %}
 
-    function nextImage() {
-      current = (current + 1) % images.length;
-      document.getElementById("slideshow").src = images[current];
-    }
-  </script>
-</body>
-</html>
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
