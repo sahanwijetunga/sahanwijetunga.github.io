@@ -17,6 +17,7 @@ Formalization
 ======
 * Tufts VERSEIM REU 2025 Participant, in [Formalization and "Finite Algebra"](https://sites.tufts.edu/verseimreu/formalization-and-finite-algebra/) project under Dr. George J. McNinch
   * We are currently working on formalizing results for hyperbolic spaces and forms over finite fields
+  * [Github](https://github.com/gmcninch-tufts/VERSEIM-2025)
  
 Analysis
 ======
