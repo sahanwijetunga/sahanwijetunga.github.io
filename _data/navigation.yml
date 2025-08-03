@@ -25,6 +25,8 @@ main:
     
   - title: "CV"
     url: /cv/
+  - title: "Formalization"
+    url: /formalization/
   - title: "Miscellaneous"
     url: /misc/
   # - title: "CV"
