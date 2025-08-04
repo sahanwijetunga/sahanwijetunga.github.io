@@ -19,8 +19,6 @@ George implemented some stuff over bilinear forms [here](https://github.com/gmcn
 
 I implemented definitions for Hyperbolic Spaces which are vector spaces equipped with a bilinear form that is a direct sum of those with 2x2 matrix form \\(\begin{pmatrix} 0 & * \\ 1 & 0 \end{pmatrix} \\)
 The (immediate) usefulness of this is that any nondegenerate finite dimensional alternating form is hyperbolic, which lets us prove that any two finite dimensional alternating forms of equal dimension are isomorphic and that any nondegenerate symmmetric form is the direct sum of an anisotropic (definite) part and a hyperbolic part, yieldin. This is implemented in the respective files under [Hyperbolic](https://github.com/gmcninch-tufts/VERSEIM-2025/tree/main/VERSEIM2025/Forms/Hyperbolic). 
-  * We will likely try adding to mathlib, after doing some cleanup work first. 
-
 
 At the suggestion of George, I next formalized Cassels-Pfister Theorem (see Theorem 17.3 of [The Algebraic and Geometric Theory
 of Quadratic Forms](https://www.math.ucla.edu/~merkurev/Book/Kniga-final/Kniga.pdf)), namely that the values taken by the extension of a quadratic map ```φ: V → F``` to ```V(X) → F(X)``` that are in ```F[X]``` are taken by the extension ```V[X] → F[X]``` as well. This used the following notable tools: 
