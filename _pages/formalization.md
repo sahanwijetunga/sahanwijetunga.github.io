@@ -31,6 +31,5 @@ of Quadratic Forms](https://www.math.ucla.edu/~merkurev/Book/Kniga-final/Kniga.p
   * Quotienting a quadratic form to achieve a regular one, done [here](https://github.com/gmcninch-tufts/VERSEIM-2025/blob/main/VERSEIM2025/Forms/QuadraticNondegenerate.lean)
 
 The actual theorem is proved [here](https://github.com/gmcninch-tufts/VERSEIM-2025/blob/main/VERSEIM2025/Forms/RationalFunctionFields/CasselsPfister.lean). A nice immediate corollary is that a sum of ```n``` squares in ```F(X)``` which lies in ```F[X]``` is also a sum of ```n``` squares in ```F[X]```, implemented [here](https://github.com/gmcninch-tufts/VERSEIM-2025/blob/main/VERSEIM2025/Forms/RationalFunctionFields/Results.lean). 
-  * Though its not an immediate concern, we will likely try adding some of the theory developed to mathlib over time. 
 
 We will likely clean up some of the results which aren't in mathlib already, and work on adding them to mathlib in a separate repository. 
