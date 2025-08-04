@@ -32,3 +32,5 @@ of Quadratic Forms](https://www.math.ucla.edu/~merkurev/Book/Kniga-final/Kniga.p
 The actual theorem is proved [here](https://github.com/gmcninch-tufts/VERSEIM-2025/blob/main/VERSEIM2025/Forms/RationalFunctionFields/CasselsPfister.lean). A nice immediate corollary is that a sum of \\(n\\) squares in \\(F(X)\\) which lies in \\(F[X]\\) is also a sum of \\(n\\) squares in \\(F[X]\\), implemented [here](https://github.com/gmcninch-tufts/VERSEIM-2025/blob/main/VERSEIM2025/Forms/RationalFunctionFields/Results.lean). 
 
 We will likely clean up some of the results which aren't in mathlib already, and work on adding them to mathlib in a separate repository. 
+
+Fun note: I did submit one minor documentation change to mathlib during the REU, [which did get merged](https://github.com/leanprover-community/mathlib4/commit/f348f3598ef381bfe6410ad8f5ac3e4a01614e83). 
