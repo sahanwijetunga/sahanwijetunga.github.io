@@ -33,6 +33,14 @@ Applied
     
 Graduate Classes
 ======
+* Fall 2025
+  * Math 251A (Partial Differential Equations)
+  * Math 269A (Advanced Numerical Analysis)
+  * Math 246A (Complex Analysis)
+  * Math 225A (Smooth Manifolds)
+  * Math 255A (Functional Analysis)
+  * Math M209A / CS M282A (Cryptography)
+    
 * Spring 2025
   * Math 245C (Real Analysis pt3)
   * Math 210C (Algebra pt3)
