@@ -39,7 +39,6 @@ Graduate Classes
   * Math 246A (Complex Analysis)
   * Math 225A (Smooth Manifolds)
   * Math 255A (Functional Analysis)
-  * Math M209A / CS M282A (Cryptography)
     
 * Spring 2025
   * Math 245C (Real Analysis pt3)
