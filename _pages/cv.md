@@ -33,6 +33,13 @@ Applied
     
 Graduate Classes
 ======
+* Winter 2026 (In Progress)
+  * Math 251B (Partial Differential Equations)
+  * Math 247A (Harmonic Analysis)
+  * Math 254B (Fourier Restriction Theory)
+  * Math 246B (Complex Analysis)
+  * Math 225B (Differential Topology)
+    
 * Fall 2025
   * Math 251A (Partial Differential Equations)
   * Math 269A (Advanced Numerical Analysis)
