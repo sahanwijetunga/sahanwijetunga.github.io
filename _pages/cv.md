@@ -34,7 +34,8 @@ Applied
 Graduate Classes
 ======
 * Winter 2026 (In Progress)
-  * Math 251B (Partial Differential Equations)
+  * Math 197 (Reading course with Professor Tao on dispersive equations)
+  * Math 251B (Topics in Partial Differential Equations)
   * Math 247A (Harmonic Analysis)
   * Math 254B (Fourier Restriction Theory)
   * Math 246B (Complex Analysis)
@@ -43,7 +44,7 @@ Graduate Classes
 * Fall 2025
   * Math 251A (Partial Differential Equations)
   * Math 269A (Advanced Numerical Analysis)
-  * Math 246A (Complex Analysis)
+  * Math 246A (Complex Analysis pt1)
   * Math 225A (Smooth Manifolds)
   * Math 255A (Functional Analysis)
     
