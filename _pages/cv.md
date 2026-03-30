@@ -16,7 +16,7 @@ Education
 Formalization
 ======
 * Tufts VERSEIM REU 2025 Participant, in [Formalization and "Finite Algebra"](https://sites.tufts.edu/verseimreu/formalization-and-finite-algebra/) project under Dr. George J. McNinch
-  * We are currently working on formalizing results for hyperbolic spaces and forms over finite fields
+  * We formalized results for hyperbolic spaces and forms over finite fields
   * [Github](https://github.com/gmcninch-tufts/VERSEIM-2025)
  
 Analysis
@@ -33,13 +33,16 @@ Applied
     
 Graduate Classes
 ======
-* Winter 2026 (In Progress)
+* Spring 2026 (In Progress)
+  * Math 251C (Dispersive PDE)
+  * Math 246C (Complex Analysis)
+  * Math 235 (Contact Geometry)
+
+* Winter 2026
   * Math 197 (Reading course with Professor Tao on dispersive equations)
-  * Math 251B (Topics in Partial Differential Equations)
   * Math 247A (Harmonic Analysis)
   * Math 254B (Fourier Restriction Theory)
   * Math 246B (Complex Analysis)
-  * Math 225B (Differential Topology)
     
 * Fall 2025
   * Math 251A (Partial Differential Equations)
@@ -62,8 +65,9 @@ Graduate Classes
   * Math 210A (Algebra pt1)
   * Math 245A (Real Analysis pt1)
   
-Highschool
+Highschool/Competitions
 ======
+* Putnam top 500 (2025)
 * [Small Bullet-Hell Game](https://soccerstar118.itch.io/particle-getaway)
 * Co-President CodeNation (Aug. 2021 - Jun. 2024)
   * Increased total membership from 20 to 105
