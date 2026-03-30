@@ -9,6 +9,4 @@ redirect_from:
   - /website/
 ---
 
-Hello! I am a first year pure math undergrad at UCLA, having switched over from computer science in Winter 2025. I'm broadly interested in analysis and formalization. 
-
-I'm currently taking classes in analysis, PDEs, and smooth manifolds, having finishing up my REU at Tufts in the summer. I plan to clean up my formalization results from the REU, to contribute to mathlib. I'm also looking into contributing to some analysis oriented formalization efforts. 
+Hello! I am a second year year pure math undergrad at UCLA. My main interests are in harmonic analysis and PDE. I will be participating in the 2026 Indiana REU under [Donggeun Ryou](https://sites.google.com/view/dryou/home). 
